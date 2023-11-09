@@ -9,7 +9,9 @@ Recently, genealogy has garnered significant interest among the population, with
 
 I thus arrive the following problem statement:
 
-*“Can a model be used to analyse facial structures to derive a working genetic breakdown of ethnic groups*? *Can a model be used to verify if 2 individuals are indeed kin?”* *Can there be a convenient platform to gain culturally relevant and factual information about the cultural migrations into Singapore?*
+*Can a model be used to analyse facial structures to derive a working genetic breakdown of ethnic groups*? 
+*Can a model be used to verify if 2 individuals are indeed kin?* 
+*Can there be a convenient platform to gain culturally relevant and factual information about the cultural migrations into Singapore?*
 
 
 ## Datasets Used
